@@ -28,7 +28,7 @@
 # -109 <= target <= 109
 # Only one valid answer exists.
 
-# Author: Kaustab Ghosh
+# Author: Kaustav Ghosh
 
 class Solution(object):
     def twoSum(self, nums, target):
