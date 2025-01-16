@@ -4,4 +4,24 @@
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0001_Two_Sum.py)  | 1. Put in hash map<br>2. check for compliment in the hashmap with traget - itterator |
-
+| 2 | [] | [Python] | |
+| 3 | [] | [Python] | |
+| 4 | [] | [Python] | |
+| 5 | [] | [Python] | |
+| 6 | [] | [Python] | |
+| 7 | [] | [Python] | |
+| 8 | [] | [Python] | |
+| 9 | [] | [Python] | |
+| 10 | [] | [Python] | |
+| 11 | [] | [Python] | |
+| 12 | [] | [Python] | |
+| 13 | [] | [Python] | |
+| 14 | [] | [Python] | |
+| 15 | [] | [Python] | |
+| 16 | [] | [Python] | |
+| 17 | [] | [Python] | |
+| 18 | [] | [Python] | |
+| 19 | [] | [Python] | |
+| 20 | [] | [Python] | |
+| 21 | [] | [Python] | |
+| 22 | [] | [Python] | |
