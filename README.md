@@ -4,7 +4,7 @@
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0001_Two_Sum.py)  | 1. Put in hash map<br>2. check for compliment in the hashmap with traget - itterator |
-| 2 | [] | [Python] | |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0002_Add_Two_Numbers.py) | 1. Itterate through both lists to add the two numbers and sum|
 | 3 | [] | [Python] | |
 | 4 | [] | [Python] | |
 | 5 | [] | [Python] | |
