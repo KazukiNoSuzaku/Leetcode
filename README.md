@@ -10,8 +10,8 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0005_Longest_Palindromic_Substring.py) | 1. Use left and right pointers to to expand from the center and check for palindromes |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0006_Zigzag_Conversion.py) | 1. Create empty array for each row<br> 2. Use direction flag to flip|
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0007_Reverse_Integer.py) | 1. Check sign then put in while loop with mod and divion by 10 operators|
-| 8 | [String to Integer_ATOI](https://leetcode.com/problems/string-to-integer-atoi/) | [Python] | Overflow, Space, and negative number |
-| 9 | [] | [Python] | |
+| 8 | [String to Integer_ATOI](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0008_String_To_Integer(atoi).py) | Overflow, Space, and negative number |
+| 9 | [Palindrome Number]() | [Python] | use divison and mod by 10 |
 | 10 | [] | [Python] | |
 | 11 | [] | [Python] | |
 | 12 | [] | [Python] | |
