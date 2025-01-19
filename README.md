@@ -9,10 +9,10 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0004_Median_of_Two_Sorted_Arrays.py) | 1. Merge the 2 lists<br>2.Figure out if its an even or odd list<br>3.If even output middle most element else avg of the len/2 and len/2 +1|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0005_Longest_Palindromic_Substring.py) | 1. Use left and right pointers to to expand from the center and check for palindromes |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0006_Zigzag_Conversion.py) | 1. Create empty array for each row<br> 2. Use direction flag to flip|
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0007_Reverse_Integer.py) | 1. Check sign then put in while loop with mod and divion by 10 operators|
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0007_Reverse_Integer.py) | 1. Check sign then put in while loop with mod and divison by 10 operators|
 | 8 | [String to Integer_ATOI](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0008_String_To_Integer(atoi).py) | Overflow, Space, and negative number |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0009_Palindrome_Number.py) | Use divison and mod by 10 |
-| 10 | [] | [Python] | |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python]() | |
 | 11 | [] | [Python] | |
 | 12 | [] | [Python] | |
 | 13 | [] | [Python] | |
