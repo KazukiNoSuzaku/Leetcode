@@ -12,7 +12,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0007_Reverse_Integer.py) | 1. Check sign then put in while loop with mod and divison by 10 operators|
 | 8 | [String to Integer_ATOI](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0008_String_To_Integer(atoi).py) | Overflow, Space, and negative number |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0009_Palindrome_Number.py) | Use divison and mod by 10 |
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python]() | |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0010_Regular_Expression_Matching.py) | Using a table to figure out the extire regression possibilities|
 | 11 | [] | [Python] | |
 | 12 | [] | [Python] | |
 | 13 | [] | [Python] | |
