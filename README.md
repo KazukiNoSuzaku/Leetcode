@@ -14,7 +14,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0009_Palindrome_Number.py) | Use divison and mod by 10 |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0010_Regular_Expression_Matching.py) | Using a table to figure out the extire regression possibilities|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0011_Container_With_Most_Water.py) | Use two pointers left and right and calculate max area and keep itterating towards teh middle|
-| 12 | [] | [Python] | |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python]() | Create and set and subract and itterate |
 | 13 | [] | [Python] | |
 | 14 | [] | [Python] | |
 | 15 | [] | [Python] | |
