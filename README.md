@@ -17,7 +17,7 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0012_Integer_to_Roman.py) | Create set and subract and itterate |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0013_Roman_to_Integer.py) | Create Sets and add and subtact based on postioning of roman numerals |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0014_Longest_Common_Prefix.py) | 1.Use the shortest string and check letters for teh other strings |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python] | |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0015_3Sum.py) | 1. Sort the list<br>2. For every element use 2 pointers left(i+1) and right(len-1) amd check sum |
 | 16 | [] | [Python] | |
 | 17 | [] | [Python] | |
 | 18 | [] | [Python] | |
