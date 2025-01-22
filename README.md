@@ -16,7 +16,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0011_Container_With_Most_Water.py) | Use two pointers left and right and calculate max area and keep itterating towards teh middle|
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0012_Integer_to_Roman.py) | Create set and subract and itterate |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0013_Roman_to_Integer.py) | Create Sets and add and subtact based on postioning of roman numerals |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python]() | |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python]() | 1.USe the shortest string and check letters for teh other strings |
 | 15 | [] | [Python] | |
 | 16 | [] | [Python] | |
 | 17 | [] | [Python] | |
