@@ -19,7 +19,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0014_Longest_Common_Prefix.py) | 1.Use the shortest string and check letters for teh other strings |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0015_3Sum.py) | 1. Sort the list<br>2. For every element use 2 pointers left(i+1) and right(len-1) amd check sum |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0016_3Sum_Closest.py) | Same logic as 3 some only with lowest difference |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python]() | |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0017_Letter_Combinations_of_a_Phone_Number.py) | Simple mapping and backtrack |
 | 18 | [] | [Python] | |
 | 19 | [] | [Python] | |
 | 20 | [] | [Python] | |
