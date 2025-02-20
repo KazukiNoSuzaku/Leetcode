@@ -23,5 +23,6 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0018_4Sum.py) | Same as 3Sum but we merge pairs |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0019_Remove_Nth_Node_From_End_of_List.py) | We basically recreate the linked list with a seperate list |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0020_Valid_Parentheses.py) | Basic push pop functionality |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python] | |
-| 22 | [] | [Python] | |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0021_Merge_Two_Sorted_Lists.py) | Merge sort kinda thing with stack architecture |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python]() | Backtracking and function recursion used |
+| 23 | [] | [Python] | |
