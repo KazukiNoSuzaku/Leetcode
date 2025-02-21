@@ -36,3 +36,33 @@
 # The sum of lists[i].length will not exceed 104.
 
 # Author: Kaustav Ghosh
+
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution(object):
+    def mergeKLists(self, lists):
+        # Initialize a min-heap
+        min_heap = []
+        
+        # Push the first node of each linked list into the heap
+        for i, l in enumerate(lists):
+            if l:
+                heapq.heappush(min_heap, (l.val, i, l))
+        
+        # Dummy node to build the result
+        dummy = ListNode(0)
+        current = dummy
+        
+        # Merge the lists
+        while min_heap:
+            val, i, node = heapq.heappop(min_heap)
+            current.next = node
+            current = current.next
+            
+            if node.next:
+                heapq.heappush(min_heap, (node.next.val, i, node.next))
+        
+        return dummy.next
