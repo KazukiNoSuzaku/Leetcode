@@ -26,4 +26,4 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0021_Merge_Two_Sorted_Lists.py) | Merge sort kinda thing with stack architecture |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0022_Generate_Parantheses.py) | Backtracking and function recursion used |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0023_Merge_k_Sorted_list.py) | 1. Initailise a Min-Heap 2. Extract and Build the Result |
-| 24 | []() | [Python]() |  |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python]() |  |
