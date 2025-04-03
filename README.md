@@ -27,4 +27,4 @@
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0022_Generate_Parantheses.py) | Backtracking and function recursion used |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0023_Merge_k_Sorted_list.py) | 1. Initailise a Min-Heap 2. Extract and Build the Result |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0024_Swap_Nodes_in_Pairs.py) | 1. Initialize Pointers 2. Traverse the list 3. Return New head |
-| 24 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python]() | 1. Initialize Pointers 2. Traverse the list 3. Return New head |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python]() | 1. Initialize Pointers 2. Traverse the list 3. Return New head |
