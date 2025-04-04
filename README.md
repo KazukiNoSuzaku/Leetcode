@@ -28,12 +28,12 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0023_Merge_k_Sorted_list.py) | 1. Initailise a Min-Heap 2. Extract and Build the Result |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0024_Swap_Nodes_in_Pairs.py) | 1. Initialize Pointers 2. Traverse the list 3. Return New head |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0025_Reverse_Nodes_in_k-Group.py) | 1. use a function for the the kth node 2. strat sorting till kth node 3. Koin the rest of it after the grouping |
-| 26 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 27 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 28 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 29 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 30 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 31 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 32 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
-| 33 | [](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python] | |
+| 26 | []() | [Python]() | |
+| 27 | []() | [Python]() | |
+| 28 | []() | [Python]() | |
+| 29 | []() | [Python]() | |
+| 30 | []() | [Python]() | |
+| 31 | []() | [Python]() | |
+| 32 | []() | [Python]() | |
+| 33 | []() | [Python]() | |
 
