@@ -40,3 +40,18 @@
 # 1 <= nums.length <= 3 * 104
 # -100 <= nums[i] <= 100
 # nums is sorted in non-decreasing order.
+
+# Author: Kaustav Ghosh
+class Solution(object):
+    def removeDuplicates(self, nums):
+        if not nums:
+            return 0
+
+        k = 1  # Index to place the next unique element
+
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i - 1]:
+                nums[k] = nums[i]
+                k += 1
+
+        return k
