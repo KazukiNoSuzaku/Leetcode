@@ -46,3 +46,22 @@
 # 0 <= val <= 100
 
 # Author: Kaustav Ghosh
+
+class Solution(object):
+    def removeElement(self, nums, val):
+        # If array is empty, return 0
+        if not nums:
+            return 0
+        
+        # Initialize pointer for position to place non-val elements
+        k = 0
+        
+        # Iterate through the array
+        for i in range(len(nums)):
+            # If current element is not val, place it at position k
+            if nums[i] != val:
+                nums[k] = nums[i]
+                k += 1
+        
+        # Return count of non-val elements
+        return k
