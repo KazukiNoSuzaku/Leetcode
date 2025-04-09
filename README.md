@@ -30,7 +30,7 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0025_Reverse_Nodes_in_k-Group.py) | 1. Use a function for the the kth node 2. strat sorting till kth node 3. Koin the rest of it after the grouping |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0026_Remove_Duplicates_from_Sorted_Array.py) | 1. Using a different counter to reassign the unique elements in the same list |
 | 27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0027_Remove_Element.py) | 1.Use k as pointer to track where to place the next non-val element 2.Itterate through the array using a range-based loop 3. non val elements are copied to k's position and k is incremented |
-| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python]() | |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | 1.Get len of needle 2. Itterate through the list with a substring len of the needle 3.IF found return the index else return -1|
 | 29 | []() | [Python]() | |
 | 30 | []() | [Python]() | |
 | 31 | []() | [Python]() | |
