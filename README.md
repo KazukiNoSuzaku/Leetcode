@@ -31,7 +31,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0026_Remove_Duplicates_from_Sorted_Array.py) | 1. Using a different counter to reassign the unique elements in the same list |
 | 27 | [Remove Elements](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0027_Remove_Element.py) | 1.Use k as pointer to track where to place the next non-val element 2.Itterate through the array using a range-based loop 3. non val elements are copied to k's position and k is incremented |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | 1.Get len of needle 2. Itterate through the list with a substring len of the needle 3.IF found return the index else return -1|
-| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python]() | |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0029_Divide_Two_Integers.py) | 1.Bit shifts: x << 1 is equivalent to x * 2 2.Avoiding overflow: Clamp result between [-2³¹, 2³¹ - 1] 3.Efficiency: Instead of subtracting divisor one by one, we subtract it in exponentially increasing chunks (doubling each time) |
 | 30 | []() | [Python]() | |
 | 31 | []() | [Python]() | |
 | 32 | []() | [Python]() | |
