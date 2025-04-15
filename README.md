@@ -33,7 +33,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.py) | 1. Get len of needle 2. Itterate through the list with a substring len of the needle 3. IF found return the index else return -1|
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0029_Divide_Two_Integers.py) | 1.Bit shifts: x << 1 is equivalent to x * 2 2. Avoiding overflow: Clamp result between [-2³¹, 2³¹ - 1] 3. Efficiency: Instead of subtracting divisor one by one, we subtract it in exponentially increasing chunks (doubling each time) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0030_Substring_with_Concatenation_of_All_Words.py) | 1. Only consider starting points from 0 to word_len - 1 to cover all alignments 2. Slide the window forward one word at a time (instead of checking each possible start index independently) 3. Maintain a dynamic count of words seen in the current window |
-| 31 | []() | [Python]() | |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python]() | |
 | 32 | []() | [Python]() | |
 | 33 | []() | [Python]() | |
 
