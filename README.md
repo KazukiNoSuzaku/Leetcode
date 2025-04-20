@@ -35,11 +35,25 @@
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0030_Substring_with_Concatenation_of_All_Words.py) | 1. Only consider starting points from 0 to word_len - 1 to cover all alignments 2. Slide the window forward one word at a time (instead of checking each possible start index independently) 3. Maintain a dynamic count of words seen in the current window |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0031_Next_Permutation.py) | 1. Find the first decreasing element from the end 2. Find the element just larger than nums[i] to the right 3. Reverse the subarray nums[i+1:] |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0032_Next_Permutation.py) | Use a stack to push open paranthesis and pop close paranthesis|
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python]() | 1. Use left and right pointers to figure out which half is sorted 2. Itterate and adjust left and right accordingly |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0033_Search_in_Rotated_Sorted_Array.py) | 1. Use left and right pointers to figure out which half is sorted 2. Itterate and adjust left and right accordingly |
 | 34 | []() | [Python]() | |
-| 34 | []() | [Python]() | |
-| 34 | []() | [Python]() | |
-| 34 | []() | [Python]() | |
+| 35 | []() | [Python]() | |
+| 36 | []() | [Python]() | |
+| 37 | []() | [Python]() | |
+| 38 | []() | [Python]() | |
+| 39 | []() | [Python]() | |
+| 40 | []() | [Python]() | |
+| 41 | []() | [Python]() | |
+| 42 | []() | [Python]() | |
+| 43 | []() | [Python]() | |
+| 44 | []() | [Python]() | |
+| 45 | []() | [Python]() | |
+| 46 | []() | [Python]() | |
+| 47 | []() | [Python]() | |
+| 48 | []() | [Python]() | |
+| 49 | []() | [Python]() | |
+| 50 | []() | [Python]() | |
+
 
 
 
