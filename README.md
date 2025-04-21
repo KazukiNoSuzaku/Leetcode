@@ -36,7 +36,7 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0031_Next_Permutation.py) | 1. Find the first decreasing element from the end 2. Find the element just larger than nums[i] to the right 3. Reverse the subarray nums[i+1:] |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0032_Next_Permutation.py) | Use a stack to push open paranthesis and pop close paranthesis|
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0033_Search_in_Rotated_Sorted_Array.py) | 1. Use left and right pointers to figure out which half is sorted 2. Itterate and adjust left and right accordingly |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python]() | |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python]() | 1. USe a bounding function with left and right flags|
 | 35 | []() | [Python]() | |
 | 36 | []() | [Python]() | |
 | 37 | []() | [Python]() | |
