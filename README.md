@@ -38,7 +38,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0033_Search_in_Rotated_Sorted_Array.py) | 1. Use left and right pointers to figure out which half is sorted 2. Itterate and adjust left and right accordingly |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | 1. Use a bounding function with left and right flags |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0035_Search_Insert_Position.py) | Basic Binary search |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python]() | Basic column and row checks |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0036_Valid_Sudoku.py) | Basic column and row checks |
 | 37 | []() | [Python]() | |
 | 38 | []() | [Python]() | |
 | 39 | []() | [Python]() | |
