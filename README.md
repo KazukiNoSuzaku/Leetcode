@@ -39,7 +39,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | 1. Use a bounding function with left and right flags |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0035_Search_Insert_Position.py) | Basic Binary search |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0036_Valid_Sudoku.py) | Basic column and row checks |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python]() | |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0037_Sudoku_Solver.py) | 1. Using sets to track used numbers in rows, columns, and boxes to avoid scanning the board repeatedly. 2. Preprocessing empty cells to reduce redundant iteration. |
 | 38 | []() | [Python]() | |
 | 39 | []() | [Python]() | |
 | 40 | []() | [Python]() | |
