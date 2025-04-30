@@ -40,7 +40,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0035_Search_Insert_Position.py) | Basic Binary search |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0036_Valid_Sudoku.py) | Basic column and row checks |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0037_Sudoku_Solver.py) | 1. Using sets to track used numbers in rows, columns, and boxes to avoid scanning the board repeatedly. 2. Preprocessing empty cells to reduce redundant iteration. |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python]() | 1. Base case: countAndSay(1) = "1" 2. Recursive rule: countAndSay(n) = RLE of countAndSay(n - 1) 3. RLE rule (modified): We read off digits of the previous string and describe how many of each digit there are consecutively (e.g., "21" → one 2, one 1 → "1211")|
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0038_Count_and_Say.py) | 1. Base case: countAndSay(1) = "1" 2. Recursive rule: countAndSay(n) = RLE of countAndSay(n - 1) 3. RLE rule (modified): We read off digits of the previous string and describe how many of each digit there are consecutively (e.g., "21" → one 2, one 1 → "1211")|
 | 39 | []() | [Python]() | |
 | 40 | []() | [Python]() | |
 | 41 | []() | [Python]() | |
