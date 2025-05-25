@@ -32,3 +32,24 @@
 # 1 <= target <= 40
 
 # Author: Kaustav Ghosh
+
+class Solution(object):
+    def combinationSum(self, candidates, target):
+        result = []
+        def backtrack(remaining, combo, start):
+            if remaining == 0:
+                result.append(list(combo))
+                return
+            elif remaining < 0:
+                return
+
+            for i in range(start, len(candidates)):
+                # Choose the number
+                combo.append(candidates[i])
+                # Explore further with the same number (i, not i+1)
+                backtrack(remaining - candidates[i], combo, i)
+                # Un-choose the number
+                combo.pop()
+
+        backtrack(target, [], 0)
+        return result
