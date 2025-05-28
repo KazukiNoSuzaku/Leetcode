@@ -43,7 +43,7 @@
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0038_Count_and_Say.py) | 1. Base case: countAndSay(1) = "1" 2. Recursive rule: countAndSay(n) = RLE of countAndSay(n - 1) 3. RLE rule (modified): We read off digits of the previous string and describe how many of each digit there are consecutively (e.g., "21" → one 2, one 1 → "1211")|
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0039_Combination_Sum.py) | 1. Choose the number 2. Explore further with the same number 3. Un-choose the number|
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0040_Combination_Sum_II.py) | 1. Sort to handle duplicates and enable pruning 2. Skip duplicates at the same recursive depth 3. If the current number exceeds the remaining target, break early 4. Include the current number and move to the next  |
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python]() | 1. Place each number in its correct position if possible 2. Find the first index i such that nums[i] != i + 1 3. If all numbers are in place |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0041_First_Missing_Positive.py) | 1. Place each number in its correct position if possible 2. Find the first index i such that nums[i] != i + 1 3. If all numbers are in place |
 | 42 | []() | [Python]() | |
 | 43 | []() | [Python]() | |
 | 44 | []() | [Python]() | |
