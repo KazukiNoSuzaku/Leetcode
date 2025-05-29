@@ -44,7 +44,7 @@
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0039_Combination_Sum.py) | 1. Choose the number 2. Explore further with the same number 3. Un-choose the number|
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0040_Combination_Sum_II.py) | 1. Sort to handle duplicates and enable pruning 2. Skip duplicates at the same recursive depth 3. If the current number exceeds the remaining target, break early 4. Include the current number and move to the next  |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0041_First_Missing_Positive.py) | 1. Place each number in its correct position if possible 2. Find the first index i such that nums[i] != i + 1 3. If all numbers are in place |
-| 42 | []() | [Python]() | |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python]() | |
 | 43 | []() | [Python]() | |
 | 44 | []() | [Python]() | |
 | 45 | []() | [Python]() | |
