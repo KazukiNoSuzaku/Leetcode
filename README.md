@@ -45,7 +45,7 @@
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0040_Combination_Sum_II.py) | 1. Sort to handle duplicates and enable pruning 2. Skip duplicates at the same recursive depth 3. If the current number exceeds the remaining target, break early 4. Include the current number and move to the next  |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0041_First_Missing_Positive.py) | 1. Place each number in its correct position if possible 2. Find the first index i such that nums[i] != i + 1 3. If all numbers are in place |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0042_Trapping_Rain_Water.py) | 1. Use 4 pointers 2. Loop until pointers meet 3. Compare heights  4.continue until left>=right 5.return total water |
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python]() | |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0043_Multiply_Strings.py) | |
 | 44 | []() | [Python]() | |
 | 45 | []() | [Python]() | |
 | 46 | []() | [Python]() | |
