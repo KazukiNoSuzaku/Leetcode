@@ -47,7 +47,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0042_Trapping_Rain_Water.py) | 1. Use 4 pointers 2. Loop until pointers meet 3. Compare heights  4.continue until left>=right 5.return total water |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0043_Multiply_Strings.py) | Itterate throught each of the digits to multiply like kids in math |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0044_Wildcard_Matching.py) | Finite automata check|
-| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python]() | |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0045_Jump_Game_II.py) | |
 | 46 | []() | [Python]() | |
 | 47 | []() | [Python]() | |
 | 48 | []() | [Python]() | |
