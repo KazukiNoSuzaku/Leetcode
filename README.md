@@ -49,7 +49,7 @@
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0044_Wildcard_Matching.py) | Finite automata check|
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0045_Jump_Game_II.py) | Use 3 pointers |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0046_Permutations.py) | Backtarcking |
-| 47 | []() | [Python]() | |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python]() | |
 | 48 | []() | [Python]() | |
 | 49 | []() | [Python]() | |
 | 50 | []() | [Python]() | |
