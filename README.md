@@ -51,7 +51,7 @@
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0046_Permutations.py) | Backtarcking |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0047_Permutations_II.py) | Backtracking again |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0048_Rotate_Image.py) | 1.Tanspose the matrix 2.Revese the matrix  |
-| 49 | []() | [Python]() | |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python]() | 1. Sort the strings 2, Group the same |
 | 50 | []() | [Python]() | |
 | 51 | []() | [Python]() | |
 | 52 | []() | [Python]() | |
@@ -62,6 +62,17 @@
 | 57 | []() | [Python]() | |
 | 58 | []() | [Python]() | |
 | 59 | []() | [Python]() | |
+| 60 | []() | [Python]() | |
+| 61 | []() | [Python]() | |
+| 62 | []() | [Python]() | |
+| 63 | []() | [Python]() | |
+| 64 | []() | [Python]() | |
+| 65 | []() | [Python]() | |
+| 66 | []() | [Python]() | |
+| 67 | []() | [Python]() | |
+| 68 | []() | [Python]() | |
+| 69 | []() | [Python]() | |
+
 
 
 
