@@ -52,7 +52,7 @@
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0047_Permutations_II.py) | Backtracking again |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0048_Rotate_Image.py) | 1.Tanspose the matrix 2.Revese the matrix  |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python]() | 1. Sort the strings 2, Group the same |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python]() | |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python]() | Nearest squaring |
 | 51 | []() | [Python]() | |
 | 52 | []() | [Python]() | |
 | 53 | []() | [Python]() | |
