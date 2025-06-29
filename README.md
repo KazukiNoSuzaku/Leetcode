@@ -51,8 +51,8 @@
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0046_Permutations.py) | Backtarcking |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0047_Permutations_II.py) | Backtracking again |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0048_Rotate_Image.py) | 1.Tanspose the matrix 2.Revese the matrix  |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python]() | 1. Sort the strings 2, Group the same |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python]() | Nearest squaring |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0049_Group_Anagrams.py) | 1. Sort the strings 2, Group the same |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0050_Pow(x%2Cn).py) | Nearest squaring |
 | 51 | []() | [Python]() | |
 | 52 | []() | [Python]() | |
 | 53 | []() | [Python]() | |
