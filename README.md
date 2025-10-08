@@ -54,7 +54,7 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0049_Group_Anagrams.py) | 1. Sort the strings 2, Group the same |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0050_Pow(x%2Cn).py) | Nearest squaring |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0051_N-Queens.py) | Backtracking and solving |
-| 52 | []() | [Python]() | |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0052_N-Queens_II.py) | Backtracking and solving |
 | 53 | []() | [Python]() | |
 | 54 | []() | [Python]() | |
 | 55 | []() | [Python]() | |
