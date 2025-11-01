@@ -56,7 +56,7 @@
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0051_N-Queens.py) | Backtracking and solving |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0052_N-Queens_II.py) | Backtracking and solving |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0053_Maximum_Subarray.py) | Itterate through the digits in num |
-| 54 | []() | [Python]() | |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python]() | |
 | 55 | []() | [Python]() | |
 | 56 | []() | [Python]() | |
 | 57 | []() | [Python]() | |
