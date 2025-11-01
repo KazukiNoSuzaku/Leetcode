@@ -57,7 +57,7 @@
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0052_N-Queens_II.py) | Backtracking and solving |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0053_Maximum_Subarray.py) | Itterate through the digits in num |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0054_Spiral_Matrix.py) | Use margin pointers top, bottom, left and right to itterate through the spiral|
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python]() | Use a temp variable|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0055_Jump_Game.py) | Use a temp variable |
 | 56 | []() | [Python]() | |
 | 57 | []() | [Python]() | |
 | 58 | []() | [Python]() | |
