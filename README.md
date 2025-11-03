@@ -58,7 +58,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0053_Maximum_Subarray.py) | Itterate through the digits in num |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0054_Spiral_Matrix.py) | Use margin pointers top, bottom, left and right to itterate through the spiral|
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0055_Jump_Game.py) | Use a temp variable |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python]() | |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0056_Merge_Intervals.py) | 1. Sort Intervals 2.Lopp thought the intervals 3. Add interaval if merge is empty or there is no overlap |
 | 57 | []() | [Python]() | |
 | 58 | []() | [Python]() | |
 | 59 | []() | [Python]() | |
