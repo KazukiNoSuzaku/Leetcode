@@ -26,10 +26,9 @@
 # 0 <= starti <= endi <= 104
 
 # Author: Kaustav Ghosh
-from typing import List
-class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        # Sort the intervals based on the starting times
+
+class Solution(object):
+    def merge(self, intervals):
         intervals.sort(key=lambda x: x[0])
         
         merged = []
