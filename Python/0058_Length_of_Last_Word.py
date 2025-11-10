@@ -28,7 +28,8 @@
 # There will be at least one word in s.
 
 # Author: Kaustav Ghosh
-class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
+
+class Solution(object):
+    def lengthOfLastWord(self, s):
         words = s.split()
         return len(words[-1])
