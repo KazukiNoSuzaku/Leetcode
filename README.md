@@ -60,7 +60,7 @@
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0055_Jump_Game.py) | Use a temp variable |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0056_Merge_Intervals.py) | 1. Sort Intervals 2.Lopp thought the intervals 3. Add interaval if merge is empty or there is no overlap |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0057_Insert_Intervals.py) | 1. Add Non-overlapping Intervals Before new interval 2. Merge Overlapping Intervals 3. Add merged intervals 4. Add Remaining Non-overlapping Intervals |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0057_Insert_Intervals.py) | Use split() |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0058_Length_of_Last_Word.py) | Use split() |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python]() | |
 | 60 | []() | [Python]() | |
 | 61 | []() | [Python]() | |
