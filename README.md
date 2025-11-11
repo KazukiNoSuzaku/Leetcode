@@ -62,7 +62,7 @@
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0057_Insert_Intervals.py) | 1. Add Non-overlapping Intervals Before new interval 2. Merge Overlapping Intervals 3. Add merged intervals 4. Add Remaining Non-overlapping Intervals |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0058_Length_of_Last_Word.py) | Use split() |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0059_Spiral_Matrix_II.py) | Use 4 loops inside and teh 4 pointers top,bottom,left and right |
-| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python]() | |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0060_Permutation_Sequence.py) | 1. Adjust k for zero-based indexing 2. Initialize result 3. Iteratively build the permutation 4. Return the result |
 | 61 | []() | [Python]() | |
 | 62 | []() | [Python]() | |
 | 63 | []() | [Python]() | |
@@ -72,7 +72,16 @@
 | 67 | []() | [Python]() | |
 | 68 | []() | [Python]() | |
 | 69 | []() | [Python]() | |
-
+| 70 | []() | [Python]() | |
+| 71 | []() | [Python]() | |
+| 72 | []() | [Python]() | |
+| 73 | []() | [Python]() | |
+| 74 | []() | [Python]() | |
+| 75 | []() | [Python]() | |
+| 76 | []() | [Python]() | |
+| 77 | []() | [Python]() | |
+| 78 | []() | [Python]() | |
+| 79 | []() | [Python]() | |
 
 
 
