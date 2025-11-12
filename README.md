@@ -63,7 +63,7 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0058_Length_of_Last_Word.py) | Use split() |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0059_Spiral_Matrix_II.py) | Use 4 loops inside and teh 4 pointers top,bottom,left and right |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0060_Permutation_Sequence.py) | 1. Adjust k for zero-based indexing 2. Initialize result 3. Iteratively build the permutation 4. Return the result |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python]() | |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python]() | 1. Inputs and purpose 2.  |
 | 62 | []() | [Python]() | |
 | 63 | []() | [Python]() | |
 | 64 | []() | [Python]() | |
