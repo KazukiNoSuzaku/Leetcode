@@ -67,7 +67,7 @@
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0062_Unique_Paths.py) | 1. Initialize a DP table 2. Set base cases for the first row 3. Set base cases for the first column 4. Fill the rest of the DP table 5. Return the result |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0063_Unique_Paths_II.py) | 1. Read grid size 2. Check for obstacle at the start 3. Initialize DP table 4. Set the starting cell 4. Set the starting cell 5. Fill the first column 6. Compute how many steps to the new head 7. Find the new tail by stepping forward 8. Set the new head and break the circle |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0064_Minimum_Path_Sum.py) | 1. Read grid size 2. Check for obstacle at the start 3. Initialize DP table 4. Set the starting cell 5. Fill the first column 6. Fill the first row 7. Fill the rest of the DP table 8. Return the result |
-| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python]() | |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0065_Valid_Number.py) | 1. Define regular expression 2. Match the pattern against the input string 3. Return the result |
 | 66 | []() | [Python]() | |
 | 67 | []() | [Python]() | |
 | 68 | []() | [Python]() | |
