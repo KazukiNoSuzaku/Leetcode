@@ -69,7 +69,7 @@
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0064_Minimum_Path_Sum.py) | 1. Read grid size 2. Check for obstacle at the start 3. Initialize DP table 4. Set the starting cell 5. Fill the first column 6. Fill the first row 7. Fill the rest of the DP table 8. Return the result |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0065_Valid_Number.py) | 1. Define regular expression 2. Match the pattern against the input string 3. Return the result |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0066_Plus_One.py) | 1. Iterate from the last digit to the first 2. Check if the current digit is less than 9 3. If the current digit is 9 4. Handle the case where all digits are 9 5. Return the result |
-| 67 | []() | [Python]() | |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python]() | |
 | 68 | []() | [Python]() | |
 | 69 | []() | [Python]() | |
 | 70 | []() | [Python]() | |
