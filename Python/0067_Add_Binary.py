@@ -20,8 +20,8 @@
 
 # Author: Kaustav Ghosh
 
-class Solution:
-    def addBinary(self, a: str, b: str) -> str:
+class Solution(object):
+    def addBinary(self, a, b):
         result = []
         carry = 0
         i, j = len(a) - 1, len(b) - 1
