@@ -70,7 +70,7 @@
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0065_Valid_Number.py) | 1. Define regular expression 2. Match the pattern against the input string 3. Return the result |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0066_Plus_One.py) | 1. Iterate from the last digit to the first 2. Check if the current digit is less than 9 3. If the current digit is 9 4. Handle the case where all digits are 9 5. Return the result |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0067_Add_Binary.py) | 1. Loop until all digits and carry are processed 2. Sum the current digits and carry 3. Append the current binary digit to result 4. Update carry 5. Build and return the final string |
-| 68 | []() | [Python]() | |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python]() | |
 | 69 | []() | [Python]() | |
 | 70 | []() | [Python]() | |
 | 71 | []() | [Python]() | |
