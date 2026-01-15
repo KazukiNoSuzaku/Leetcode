@@ -73,7 +73,7 @@
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0068_Text_Justification.py) | 1. Initialize an empty result list, a current line list, and a counter for the number of letters in the current line 2. Iterate through each word in the input list 3. After processing all words, left-justify the last line and append it to the result 4. Return the list of justified lines |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0069_SQRT(X).py) | 1. Initialize search bounds 2. Binary search loop 3. Return the result |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0070_Climbing_Stairs.py) | 1. Handle small cases 2. Initialize variables 3. Iterate from 3 to n 4. For each step, calculate third = first + second (ways to reach current step is the sum of ways to reach the two previous steps) 5. Update first to second and second to third for the next iteration 6. Return result |
-| 71 | []() | [Python]() | |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python]() | |
 | 72 | []() | [Python]() | |
 | 73 | []() | [Python]() | |
 | 74 | []() | [Python]() | |
