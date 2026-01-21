@@ -74,7 +74,7 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0069_SQRT(X).py) | 1. Initialize search bounds 2. Binary search loop 3. Return the result |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0070_Climbing_Stairs.py) | 1. Handle small cases 2. Initialize variables 3. Iterate from 3 to n 4. For each step, calculate third = first + second (ways to reach current step is the sum of ways to reach the two previous steps) 5. Update first to second and second to third for the next iteration 6. Return result |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0071_Simplify_Path.py) | 1. Split the Path 2. Initialize a Stack 3. Iterate through each component 4. oin the stack with "/" to form the canonical path, and prepend a leading "/" 5. Return the resulting string |
-| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python]() | |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0072_Edit_Distance.py) | 1. Initialize a 2D DP table where dp[i][j] represents the edit distance between the first i characters of word1 and the first j characters of word2 2. Set the base cases 3. Iterate through each character of both words 4. The answer is dp[m][n], where m and n are the lengths of word1 and word2 |
 | 73 | []() | [Python]() | |
 | 74 | []() | [Python]() | |
 | 75 | []() | [Python]() | |
