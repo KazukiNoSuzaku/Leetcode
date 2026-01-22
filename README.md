@@ -75,7 +75,7 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0070_Climbing_Stairs.py) | 1. Handle small cases 2. Initialize variables 3. Iterate from 3 to n 4. For each step, calculate third = first + second (ways to reach current step is the sum of ways to reach the two previous steps) 5. Update first to second and second to third for the next iteration 6. Return result |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0071_Simplify_Path.py) | 1. Split the Path 2. Initialize a Stack 3. Iterate through each component 4. oin the stack with "/" to form the canonical path, and prepend a leading "/" 5. Return the resulting string |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0072_Edit_Distance.py) | 1. Initialize a 2D DP table where dp[i][j] represents the edit distance between the first i characters of word1 and the first j characters of word2 2. Set the base cases 3. Iterate through each character of both words 4. The answer is dp[m][n], where m and n are the lengths of word1 and word2 |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python]() | |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0073_Set_Matrix_Zeroes.py) | 1. Check if the first row or first column contains any zero. Store this info in two flags 2. For the rest of the matrix (excluding first row and column), if a cell is zero, mark its row and column by setting the first cell of that row and column to zero 3. Iterate again (excluding first row and column). If the first cell of the row or column is zero, set the current cell to zero 4. If the first row originally had any zero, set the entire first row to zero 5. If the first column originally had any zero, set the entire first column to zero |
 | 74 | []() | [Python]() | |
 | 75 | []() | [Python]() | |
 | 76 | []() | [Python]() | |
@@ -86,6 +86,7 @@
 | 81 | []() | [Python]() | |
 | 82 | []() | [Python]() | |
 | 83 | []() | [Python]() | |
+| 84 | []() | [Python]() | |
 
 
 
