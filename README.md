@@ -78,7 +78,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0073_Set_Matrix_Zeroes.py) | 1. Check if the first row or first column contains any zero. Store this info in two flags 2. For the rest of the matrix (excluding first row and column), if a cell is zero, mark its row and column by setting the first cell of that row and column to zero 3. Iterate again (excluding first row and column). If the first cell of the row or column is zero, set the current cell to zero 4. If the first row originally had any zero, set the entire first row to zero 5. If the first column originally had any zero, set the entire first column to zero |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0074_Search_a_2D_Matrix.py) | 1. Initialize search bounds 2. Binary search loop 3. Return the result |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0075_Sort_Colors.py) | 1. Initialize three pointers: low, mid, and high 2. Iterate while mid ≤ high with conditions 3. Continue until all elements are sorted in-place as [0s, 1s, 2s] |
-| 76 | []() | [Python]() | |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python]() | |
 | 77 | []() | [Python]() | |
 | 78 | []() | [Python]() | |
 | 79 | []() | [Python]() | |
