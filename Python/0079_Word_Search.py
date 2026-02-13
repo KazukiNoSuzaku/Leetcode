@@ -34,8 +34,8 @@
 
 # Author: Kaustav Ghosh
 
-class Solution:
-    def exist(self, board: List[List[str]], word: str) -> bool:
+class Solution(object):
+    def exist(self, board, word):
         m, n = len(board), len(board[0])
         visited = [[False] * n for _ in range(m)]
 
