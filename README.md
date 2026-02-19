@@ -99,6 +99,10 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0094_Binary_Tree_Inorder_Traversal.py) | Iterative with a stack: go left until null, pop and record, then go right |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0095_Unique_Binary_Search_Trees_II.py) | Recursively pick each value as root and combine all left and right subtree permutations |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0096_Unique_Binary_Search_Trees.py) | DP (Catalan numbers): dp[i] = sum of dp[j-1] * dp[i-j] for j in 1..i |
+| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0097_Interleaving_String.py) | 2D DP: dp[i][j] = true if s3[:i+j] is an interleaving of s1[:i] and s2[:j] |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0098_Validate_Binary_Search_Tree.py) | Recursive with min/max bounds: each node must be strictly within (low, high) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0099_Recover_Binary_Search_Tree.py) | Inorder traversal to find the two swapped nodes then swap their values back |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0100_Same_Tree.py) | Recursive: check both nodes are null, or both non-null with equal values and same subtrees |
 
 
 
