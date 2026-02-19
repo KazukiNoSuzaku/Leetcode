@@ -34,7 +34,7 @@
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0029_Divide_Two_Integers.py) | 1. Bit shifts: x << 1 is equivalent to x * 2 2. Avoiding overflow: Clamp result between [-2³¹, 2³¹ - 1] 3. Efficiency: Instead of subtracting divisor one by one, we subtract it in exponentially increasing chunks (doubling each time) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0030_Substring_with_Concatenation_of_All_Words.py) | 1. Only consider starting points from 0 to word_len - 1 to cover all alignments 2. Slide the window forward one word at a time (instead of checking each possible start index independently) 3. Maintain a dynamic count of words seen in the current window |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0031_Next_Permutation.py) | 1. Find the first decreasing element from the end 2. Find the element just larger than nums[i] to the right 3. Reverse the subarray nums[i+1:] |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0032_Next_Permutation.py) | Use a stack to push open paranthesis and pop close paranthesis|
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0032_Longest_Valid_Parantheses.py) | Use a stack to push open paranthesis and pop close paranthesis|
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0033_Search_in_Rotated_Sorted_Array.py) | 1. Use left and right pointers to figure out which half is sorted 2. Itterate and adjust left and right accordingly |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | 1. Use a bounding function with left and right flags |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0035_Search_Insert_Position.py) | Basic Binary search |
@@ -82,24 +82,23 @@
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0077_Combinations.py) | 1. Use a backtrack funation 2. After recursion returns, continue the loop to "choose" the next i (no explicit undo needed because path + [i] makes a fresh list)|
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0078_Subsets.py) | 1. Create an empty result list to store all subsets and start the backtracking process with an empty path 2. At each step of recursion, add the current path (subset) to the result before exploring further. This includes the empty set on first call 3. Loop through elements starting from a given index to avoid duplicate subsets (ensures we only move forward, never revisit earlier elements) 4. Build Subset 5. After exploring all possibilities, return the result list containing all subsets |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0079_Word_Search.py) | 1. Create a visited grid to track which cells we've already used in our current path search 2. Loop through every cell in the board looking for the first letter of the word 3. Start DFS search 4. Check character match 5. Explore neighbors 6. Backtrack 7. Return result |
-| 80 | []() | [Python]() | |
-| 81 | []() | [Python]() | |
-| 82 | []() | [Python]() | |
-| 83 | []() | [Python]() | |
-| 84 | []() | [Python]() | |
-| 85 | []() | [Python]() | |
-| 86 | []() | [Python]() | |
-| 87 | []() | [Python]() | |
-| 88 | []() | [Python]() | |
-| 88 | []() | [Python]() | |
-| 89 | []() | [Python]() | |
-| 90 | []() | [Python]() | |
-| 91 | []() | [Python]() | |
-| 92 | []() | [Python]() | |
-| 93 | []() | [Python]() | |
-| 94 | []() | [Python]() | |
-| 95 | []() | [Python]() | |
-| 96 | []() | [Python]() | |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0080_Remove_Duplicates_from_Sorted_Array_II.py) | |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0081_Search_in_Rotated_Sorted_Array_II.py) | |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0082_Remove_Duplicates_from_Sorted_List_II.py) | |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0083_Remove_Duplicates_from_Sorted_List.py) | |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0084_Largest_Rectangle_in_Histogram.py) | |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0085_Maximal_Rectangle.py) | |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0086_Partition_List.py) | |
+| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0087_Scramble_String.py) | |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0088_Merge_Sorted_Array.py) | |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0089_Gray_Code.py) | |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0090_Subsets_II.py) | |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0091_Decode_Ways.py) | |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0092_Reverse_Linked_List_II.py) | |
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0093_Restore_IP_Addresses.py) | |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0094_Binary_Tree_Inorder_Traversal.py) | |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0095_Unique_Binary_Search_Trees_II.py) | |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0096_Unique_Binary_Search_Trees.py) | |
 
 
 
