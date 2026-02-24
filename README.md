@@ -113,6 +113,11 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0108_Convert_Sorted_Array_to_Binary_Search_Tree.py) | Pick mid as root, recursively build left from nums[:mid] and right from nums[mid+1:] |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0109_Convert_Sorted_List_to_Binary_Search_Tree.py) | Convert list to array then apply sorted-array-to-BST recursive mid-pick approach |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0110_Balanced_Binary_Tree.py) | DFS height check: return -1 if any subtree is unbalanced, otherwise return actual height |
+| 111 | []() | []() | |
+
+dfhgfdhdrfh
+
+
 
 
 
