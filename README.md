@@ -176,3 +176,4 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0189_Rotate_Array.py) | Reverse whole array, then reverse first k, then reverse rest (in-place O(1) space) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0190_Reverse_Bits.py) | Shift result left and OR with LSB of n for 32 iterations |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0191_Number_of_1_Bits.py) | Brian Kernighan: n &= n-1 clears the lowest set bit each iteration |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0198_House_Robber.py) | DP with two variables: max(skip current, take current + prev-prev) |
