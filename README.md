@@ -138,3 +138,4 @@
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0133_Clone_Graph.py) | DFS with a hash map of original->clone to handle cycles |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0134_Gas_Station.py) | Greedy: if total gas >= total cost a solution exists; reset start whenever tank goes negative |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0135_Candy.py) | Two passes: left-to-right for ascending, right-to-left for descending neighbors |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0136_Single_Number.py) | XOR all elements; pairs cancel out leaving the single number |
