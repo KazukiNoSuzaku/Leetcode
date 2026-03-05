@@ -139,3 +139,4 @@
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0134_Gas_Station.py) | Greedy: if total gas >= total cost a solution exists; reset start whenever tank goes negative |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0135_Candy.py) | Two passes: left-to-right for ascending, right-to-left for descending neighbors |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0136_Single_Number.py) | XOR all elements; pairs cancel out leaving the single number |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0137_Single_Number_II.py) | Bit manipulation with ones/twos accumulators to count mod 3 per bit |
