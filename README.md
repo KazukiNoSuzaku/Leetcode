@@ -364,3 +364,4 @@
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0359_Logger_Rate_Limiter.py) | HashMap stores last printed timestamp; allow if 10+ seconds elapsed |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0360_Sort_Transformed_Array.py) | Two pointers fill from ends; parabola direction determines fill order |
 | 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0361_Bomb_Enemy.py) | Recompute row/col enemy counts only at wall boundaries |
+| 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0362_Design_Hit_Counter.py) | Deque; pop stale hits older than 300 seconds on each query |
