@@ -387,3 +387,4 @@
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0382_Linked_List_Random_Node.py) | Reservoir sampling: select node i with probability 1/i |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0383_Ransom_Note.py) | Counter magazine chars; check each ransom char is available |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0384_Shuffle_an_Array.py) | Fisher-Yates shuffle: swap each element with random position from i to n-1 |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/0385_Mini_Parser.py) | Stack-based parsing: push on '[', pop and attach on ']', flush number on ',' |
