@@ -1326,3 +1326,4 @@
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1321_Restaurant_Growth.py) | 7-day sliding window sum and average using SQL window functions |
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1322_Ads_Performance.py) | CTR = clicks / (clicks + views) * 100 grouped by ad_id |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1323_Maximum_69_Number.py) | Replace the first 6 with 9 in the string representation |
+| 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1324_Print_Words_Vertically.py) | Transpose word matrix column by column, rstrip each row |
