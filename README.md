@@ -1698,3 +1698,4 @@
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/SQL/1693_Daily_Leads_and_Partners.sql) | COUNT DISTINCT leads and partners grouped by date and make |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1694_Reformat_Phone_Number.py) | Strip non-digits, group by 3s with 2-2 for last 4 |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1695_Maximum_Erasure_Value.py) | Sliding window with set for unique elements, track max sum |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [Python](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/Python/1696_Jump_Game_VI.py) | DP with monotonic deque for sliding window max |
