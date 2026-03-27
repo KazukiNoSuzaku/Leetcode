@@ -1,0 +1,25 @@
+-- Author: Kaustav Ghosh
+-- https://leetcode.com/problems/the-airport-with-the-most-traffic/
+-- Premium
+
+-- SELECT airport_id
+-- FROM (
+--     SELECT airport_id, SUM(flights_count) AS total
+--     FROM (
+--         SELECT departure_airport AS airport_id, flights_count FROM Flights
+--         UNION ALL
+--         SELECT arrival_airport AS airport_id, flights_count FROM Flights
+--     ) t
+--     GROUP BY airport_id
+-- ) t2
+-- WHERE total = (
+--     SELECT MAX(total) FROM (
+--         SELECT SUM(flights_count) AS total
+--         FROM (
+--             SELECT departure_airport AS airport_id, flights_count FROM Flights
+--             UNION ALL
+--             SELECT arrival_airport AS airport_id, flights_count FROM Flights
+--         ) t
+--         GROUP BY airport_id
+--     ) t3
+-- );
