@@ -1,0 +1,15 @@
+-- Author: Kaustav Ghosh
+-- https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years/
+-- Premium
+
+-- SELECT DISTINCT t.product_id
+-- FROM (
+--     SELECT product_id,
+--            YEAR(purchase_date) AS yr,
+--            COUNT(*) AS cnt,
+--            LEAD(YEAR(purchase_date)) OVER (PARTITION BY product_id ORDER BY YEAR(purchase_date)) AS next_yr,
+--            LEAD(COUNT(*)) OVER (PARTITION BY product_id ORDER BY YEAR(purchase_date)) AS next_cnt
+--     FROM Orders
+--     GROUP BY product_id, YEAR(purchase_date)
+-- ) t
+-- WHERE t.cnt >= 3 AND t.next_cnt >= 3 AND t.next_yr = t.yr + 1;
