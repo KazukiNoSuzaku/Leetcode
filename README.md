@@ -2625,3 +2625,4 @@
 | 2621 | [Sleep](https://leetcode.com/problems/sleep/) | [JavaScript](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/JavaScript/2621_Sleep.js) | Wrap setTimeout in a Promise and await it |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | [JavaScript](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/JavaScript/2622_Cache_With_Time_Limit.js) | Map with expiry timestamps; clearTimeout on overwrite, setTimeout to auto-delete |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize/) | [JavaScript](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/JavaScript/2623_Memoize.js) | Closure over Map; key = JSON.stringify(args) for cache lookup |
+| 2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/) | [JavaScript](https://github.com/KazukiNoSuzaku/Leetcode/blob/main/JavaScript/2624_Snail_Traversal.js) | Fill column by column; reverse row index on odd columns for snake pattern |
