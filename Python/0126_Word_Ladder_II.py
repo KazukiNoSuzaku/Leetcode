@@ -23,7 +23,7 @@
 
 # Author: Kaustav Ghosh
 
-from collections import defaultdict, deque
+from collections import defaultdict
 
 class Solution(object):
     def findLadders(self, beginWord, endWord, wordList):
@@ -31,17 +31,39 @@ class Solution(object):
         if endWord not in word_set:
             return []
 
-        layer = {beginWord: [[beginWord]]}
-        while layer:
-            word_set -= set(layer.keys())
-            next_layer = defaultdict(list)
-            for word, paths in layer.items():
+        # BFS: build parent graph (only store edges, not full paths)
+        parents = defaultdict(set)
+        current_level = {beginWord}
+        visited = {beginWord}
+        found = False
+
+        while current_level and not found:
+            next_level = set()
+            for word in current_level:
                 for i in range(len(word)):
                     for c in 'abcdefghijklmnopqrstuvwxyz':
-                        next_word = word[:i] + c + word[i+1:]
-                        if next_word in word_set:
-                            next_layer[next_word] += [path + [next_word] for path in paths]
-            if endWord in next_layer:
-                return next_layer[endWord]
-            layer = next_layer
-        return []
+                        nw = word[:i] + c + word[i+1:]
+                        if nw in word_set and nw not in visited:
+                            next_level.add(nw)
+                            parents[nw].add(word)
+                            if nw == endWord:
+                                found = True
+            visited |= next_level
+            current_level = next_level
+
+        if not found:
+            return []
+
+        # DFS: reconstruct all shortest paths from parent graph
+        result = []
+        def dfs(word, path):
+            if word == beginWord:
+                result.append(path[::-1])
+                return
+            for parent in parents[word]:
+                path.append(parent)
+                dfs(parent, path)
+                path.pop()
+
+        dfs(endWord, [endWord])
+        return result
