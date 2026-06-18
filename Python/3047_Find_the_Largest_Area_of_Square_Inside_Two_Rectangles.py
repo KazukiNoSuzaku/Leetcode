@@ -1,0 +1,17 @@
+from typing import List
+
+class Solution:
+    def largestSquareArea(self, bottomLeft: List[List[int]], topRight: List[List[int]]) -> int:
+        n = len(bottomLeft)
+        ans = 0
+        for i in range(n):
+            for j in range(i + 1, n):
+                # Intersection of rectangle i and rectangle j
+                x1 = max(bottomLeft[i][0], bottomLeft[j][0])
+                y1 = max(bottomLeft[i][1], bottomLeft[j][1])
+                x2 = min(topRight[i][0], topRight[j][0])
+                y2 = min(topRight[i][1], topRight[j][1])
+                side = min(x2 - x1, y2 - y1)
+                if side > 0:
+                    ans = max(ans, side * side)
+        return ans
